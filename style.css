@@ -1,7 +1,8 @@
 .bg-box {
-    width: 1000px;
-    height: 1000px;
-    background-color: green;
-    background-image: url(https://img2.goodfon.ru/wallpaper/big/0/5b/pole-zelen-trava-dom-derevya.jpg​);
-  }
-  
+  width: 1500px;
+  height: 1500px;
+  background-color: green;
+  background-image: url(https://img2.goodfon.ru/wallpaper/big/0/5b/pole-zelen-trava-dom-derevya.jpg​), url(https://www.freeiconspng.com/uploads/grass-png-images-pictures-transparent-28.png​);
+  background-repeat: no-repeat;
+  background-position: center;
+}
